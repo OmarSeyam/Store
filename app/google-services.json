@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333185048684",
+    "project_id": "omar-seyam",
+    "storage_bucket": "omar-seyam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333185048684:android:847ca625bb716edb83f849",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333185048684-ghpbiv3oerumrgb0ttjkit2augj1cnp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj3FkTT2QoZegpkDWmMT2fglPR-_H1R2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333185048684-ghpbiv3oerumrgb0ttjkit2augj1cnp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
